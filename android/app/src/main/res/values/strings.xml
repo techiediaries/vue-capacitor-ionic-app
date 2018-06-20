@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vuecapacitordemo</string>
+    <string name="title_activity_main">vuecapacitordemo</string>
+    <string name="package_name">com.example.vuecapacitordemo</string>
+    <string name="fileprovider_authority">com.example.vuecapacitordemo.fileprovider</string>
+    <string name="custom_url_scheme">com.example.vuecapacitordemo</string>
+</resources>

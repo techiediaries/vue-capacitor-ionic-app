@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.vuecapacitordemo",
+  "appName": "vuecapacitordemo",
+  "bundledWebRuntime": false,
+  "webDir": "dist"
+}
